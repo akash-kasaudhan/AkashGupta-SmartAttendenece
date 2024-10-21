@@ -77,31 +77,7 @@ pip install smtp
 
 ---
 
-## **Screenshots** 📸  
-- **Basic UI**  
-![Basic UI](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/basic%20ui.png)
 
-- **Student Details**  
-![Student Details](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/details.png)
-
-- **Training Portal**  
-![Training Portal](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/training.png)
-
-- **Face Recognition in Action**  
-![Face Recognition](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/recognition.png)
-
-- **Attendance Record**  
-![Attendance Record](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/csv.png)
-
-- **Notification Portal**  
-![Notification Portal](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/notification.png)
-
-- **Chatbot**  
-![Chatbot](https://github.com/harshit-jain-2109/Smart-Attendance-Management/blob/main/chatbot.png)
-
-### **Demo Video**  
-Watch it in Action 🎥  
-[Watch it Here](https://youtu.be/o_Ji7Up4RSM)
 
 ---
 
